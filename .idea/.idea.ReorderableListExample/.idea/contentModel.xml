@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dev\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dev\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ReorderableListExample.937855117.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dev\Stepico\Development\SandBox\ReorderableListExample" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="EditorLevelRecords.cs" t="Include" />
+          <e p="LevelDataEditor.cs" t="Include" />
+          <e p="ShopMenuEditor.cs" t="Include" />
+          <e p="TutorialShortcutCustomEditor.cs" t="Include" />
+        </e>
+        <e p="LevelSystem" t="Include">
+          <e p="LevelDataContainer.cs" t="Include" />
+        </e>
+        <e p="Samples" t="Include">
+          <e p="Reorderable List" t="Include">
+            <e p="1.0.1" t="Include">
+              <e p="Examples" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="ExampleEditor.cs" t="Include" />
+                  <e p="GameObjectEditor.cs" t="Include" />
+                  <e p="NameOverrideEditor.cs" t="Include" />
+                  <e p="NestedChildDrawer.cs" t="Include" />
+                  <e p="SurrogateTestEditor.cs" t="Include" />
+                </e>
+                <e p="Runtime" t="Include">
+                  <e p="Example.cs" t="Include" />
+                  <e p="GameObjectExample.cs" t="Include" />
+                  <e p="NameOverride.cs" t="Include" />
+                  <e p="NestedExample.cs" t="Include" />
+                  <e p="RecursionTest.cs" t="Include" />
+                  <e p="ScriptableObjectExample.cs" t="Include" />
+                  <e p="SurrogateTest.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="LevelData.cs" t="Include" />
+          <e p="MobWave.cs" t="Include" />
+          <e p="ReorderableListUtility.cs" t="Include" />
+          <e p="ShopMenu.cs" t="Include" />
+          <e p="TestReorder.cs" t="Include" />
+          <e p="TutorialShortcutData.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ReorderableListExample.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
